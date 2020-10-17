@@ -1,8 +1,13 @@
 {
-  "name": "next-mdx-deck",
+  "name": "getting-started-with-open-source",
   "version": "0.1.0",
-  "description": "Presentation decks using MDX, React, and Next.JS",
+  "description": "A presentation on getting started with Open Source",
   "private": true,
+  "author": {
+    "name": "Monica Powell",
+    "email": "github@aboutmonica.com",
+    "url": "https://aboutmonica.com/"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
