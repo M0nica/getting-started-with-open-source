@@ -12,7 +12,8 @@
     "dev": "next dev",
     "build": "next build",
     "format": "prettier --write '**/*.{js,jsx}'",
-    "start": "next start"
+    "start": "next start",
+    "export": "next export"
   },
   "dependencies": {
     "@mdx-js/loader": "^1.5.8",
