@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: `@waterproofheart`,
   title: `Getting Started with Open Source`,
-  date: `October 2020`,
+  date: ``,
   author: {
     url: `https://twitter.com/waterproofheart`,
   },
